@@ -1,4 +1,7 @@
-## Hi there 👋
+## Gidday 👋
+I'm new to GitHub and just here to look around...
+But I am learning some Python and will post some things here.
+And I'm also a CGE modeller looking to port a model from GAMS into R, so I might be using this space to do that.
 
 <!--
 **Silent-Mosquito/Silent-Mosquito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
