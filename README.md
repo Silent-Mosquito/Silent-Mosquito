@@ -1,7 +1,6 @@
 ## Gidday 👋
-I'm new to GitHub and just here to look around...
-But I am learning some Python and will post some things here.
-And I'm also a CGE modeller looking to port a model from GAMS into R, so I might be using this space to do that.
+I am a CGE modeller (CGE is a kind of applied economic model) and interested in porting a model from GAMS to R or Python.
+I started learning Python recently and have put some codes here that I made during my learning.
 
 <!--
 **Silent-Mosquito/Silent-Mosquito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
